@@ -1,27 +1,50 @@
-# PrimeiroAppAngular
+# First Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+![App image](https://angular.io/generated/images/guide/faa/homes-app-landing-page.png "App Image")
 
-## Development server
+This repository contains the "First Angular App" project, which follows the Official Angular Documentation.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This project is a simple Angular application designed to demonstrate the core concepts of the Angular framework. Throughout the development process, I've learned to:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Configure the Angular environment
+- Create a component
+- Define an interface
+- Implement input parameters
+- Utilize property binding
+- Add dynamic values
+- Use \*ngFor directive
+- Create services
+- Add routing to the application
+- Implement forms
+- Add search functionality
+- Use HTTP communication for data handling
 
-## Build
+## Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To get started with this project, follow these steps:
 
-## Running unit tests
+1. Clone the repository:
+   `git clone https://github.com/IGORAOLIV/primeiro_app_angular.git`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Navigate to the project directory:
+   `cd first-angular-app`
 
-## Running end-to-end tests
+3. Install the project dependencies:
+   `npm install`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Usage
 
-## Further help
+Run the application using the following command:
+`ng serve`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The app will be available at `http://localhost:4200`.
+
+## Contributing
+
+Contributions are welcome! Please read the CONTRIBUTING.md file for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
